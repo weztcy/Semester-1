@@ -1,0 +1,45 @@
+.utama div{
+    text-align: center;
+    padding: 40px;
+}
+
+.utama div img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    object-fit: cover;
+    object-position: 0 -8px;
+}
+
+.utama{
+    text-align: center;
+}
+
+.tengah{
+    padding: 30px;
+}
+
+.tengah h1{
+    color: rgb(29, 29, 29);
+    font-size: 35px;
+}
+
+.tengah h2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 400px;
+}
+
+.tengah h2 , .tengah p{
+    font-weight: lighter;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 10px auto 0 auto;
+}
+
+div.SM i{
+    padding: 0 15px;
+    font-size: 30px;
+    transition: 0.4s;
+}
